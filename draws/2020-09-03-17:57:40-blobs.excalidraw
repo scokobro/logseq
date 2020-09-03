@@ -1,0 +1,85 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "YEhs_95Km7rf_5TwUVqEj",
+      "type": "rectangle",
+      "x": 439.25,
+      "y": 188.546875,
+      "width": 353.109375,
+      "height": 227.859375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1895626480,
+      "version": 46,
+      "versionNonce": 580174864,
+      "isDeleted": false
+    },
+    {
+      "id": "2Zmlnl6OQ193zzqHHv6yn",
+      "type": "arrow",
+      "x": 796.171875,
+      "y": 299.046875,
+      "width": 137.296875,
+      "height": 0.65625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 286606576,
+      "version": 14,
+      "versionNonce": 1013773840,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          137.296875,
+          0.65625
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "vi4eGQDWnmLOTdCpl3Mal",
+      "type": "ellipse",
+      "x": 939.9375,
+      "y": 207.671875,
+      "width": 202.203125,
+      "height": 182.34375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1167143664,
+      "version": 148,
+      "versionNonce": 1179371248,
+      "isDeleted": false
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
