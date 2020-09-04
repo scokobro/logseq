@@ -2,7 +2,9 @@
 title: Radio Towers
 author: spkb
 ---
-published: false
+published: true
+slide: true
+permalink: radio%20towers
 
 ## Radio Towers
 ### Abstract
