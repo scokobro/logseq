@@ -3,9 +3,5 @@ title: media theory
 author: spkb
 date: 3 Sept 2020
 ---
-## #+BEGIN_NOTE
-I am here
-#+END_NOTE
-## #+BEGIN_EXPORT latex
-
-#+END_EXPORT
+## Abstract
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed [[consectetur]]. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla.
