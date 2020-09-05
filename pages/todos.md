@@ -3,7 +3,7 @@ title: ToDos
 ---
 
 ## Block title
-Custom query example:
+
 #+BEGIN_QUERY
 {:title "Tasks marked grad"
  :query [:find (pull ?b [*])
