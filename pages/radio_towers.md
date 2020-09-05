@@ -17,7 +17,6 @@ Radio towers are a now rare material reminder of the largely ephemeral practise 
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "nibble"]
-         [?b :block/ref-pages ?p]
-         [?b :block/marker "NOW"]]}
+         [?b :block/ref-pages ?p]]}
 #+END_QUERY
 ##
