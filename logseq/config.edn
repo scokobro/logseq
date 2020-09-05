@@ -1,9 +1,9 @@
 {:project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name ""
-           :alias ""
+           :name "Scott Koga-Browes"
+           :alias "ScottKB"
            ;; your twitter handle
-           :twitter ""
+           :twitter "scokobro"
            ;; description supports both hiccup and html
            :description ""}
 
@@ -66,7 +66,8 @@
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
  :commands
- []
+ [[";GI" "Global Insights"]
+  [";spk" "spkb@fc.ritsumei.ac.jp"]]
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
