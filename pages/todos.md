@@ -2,16 +2,16 @@
 title: ToDos
 ---
 
-## $  $
+## Block title
 #+BEGIN_QUERY
-{:title "Now tasks with tag GRAD"
+{:title "ToDos tagged GRAD"
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "grad"]
          [?b :block/ref-pages ?p]
-         
-Title
-#+BEGIN_QUERY
+         ]}
+#+END_QUERY$  $
+Y
 {:title "Now tasks with tag Global Insights"
  :query [:find (pull ?b [*])
          :where
