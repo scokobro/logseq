@@ -7,10 +7,11 @@ title: ToDos
 {:title "ToDos tagged GRAD"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "grad"]
+         [?p :page/name "GII"]
          [?b :block/ref-pages ?p]
-         ]pages ?p]
          ]}
+#+END_QUERY$  $
+ ]}
 #+END_QUERY$  $
 Y
 {:title "Now tasks with tag Global Insights"
