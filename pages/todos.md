@@ -9,6 +9,7 @@ title: ToDos
          :where
          [?p :page/name "grad"]
          [?b :block/ref-pages ?p]
+         ]pages ?p]
          ]}
 #+END_QUERY$  $
 Y
