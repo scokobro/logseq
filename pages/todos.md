@@ -7,7 +7,7 @@ title: ToDos
 {:title "ToDos tagged GRAD"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "GII"]
+         [?p :page/name "grad"]
          [?b :block/ref-pages ?p]
          ]}
 #+END_QUERY
