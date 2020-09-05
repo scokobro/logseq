@@ -2,7 +2,7 @@
 title: ToDos
 ---
 
-## Custom query example:
+## $/$
 #+BEGIN_QUERY
 {:title "Now tasks with tag nibble"
  :query [:find (pull ?b [*])
