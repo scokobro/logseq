@@ -2,6 +2,5 @@
 title: nibble
 ---
 
-## NOW
-- [ ] I am a test #nibble
+## LATER - [ ] I am a test #nibble
 ##
