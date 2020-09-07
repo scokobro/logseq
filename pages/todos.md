@@ -7,8 +7,7 @@ title: ToDos
 {:title "All Tasks"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "grad"]
-         [?b :block/marker "TODO"]]}
+                  [?b :block/marker "TODO"]]}
 #+END_QUERY
 ## Title
 #+BEGIN_QUERY
