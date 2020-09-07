@@ -2,6 +2,7 @@
 title: Graduate School
 ---
 
-## TODO get back to Chinese applicant
+## DONE get back to Chinese applicant
+### replied by mail 7 sep 1527
 ##
 ##
