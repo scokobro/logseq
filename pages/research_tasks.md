@@ -2,5 +2,6 @@
 title: Research Tasks
 ---
 
-## TODO write Radio Towers paper
+## TODO work on Radio Towers paper #paper #writing
+##
 ##
