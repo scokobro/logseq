@@ -1,6 +1,7 @@
 ---
 title: CAC Syllabus
 ---
+published: true
 
 ## COURSE NAME
 13438:IR18‐EE233 Cultural Awareness and Communication (RB) § 13439:IR-ECS201 Cross-Cultural Communication (RB) § 13440:RUIR-2232 Cultural Awareness and Communication (course jointly designed)(RB)
