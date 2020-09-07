@@ -4,7 +4,7 @@ title: ToDos
 
 ## Block title
 #+BEGIN_QUERY
-{:title "Tasks marked grad"
+{:title "All Tasks"
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "grad"]
