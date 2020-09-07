@@ -1,7 +1,7 @@
 ---
-title: grad
+title: Graduate School
 ---
 
-## TODO tester on grad page
+## TODO get back to Chinese applicant
 ##
 ##
