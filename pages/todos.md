@@ -8,7 +8,6 @@ title: ToDos
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "grad"]
-         [?b :block/ref-pages ?p]
          [?b :block/marker "TODO"]]}
 #+END_QUERY
 ## Title
