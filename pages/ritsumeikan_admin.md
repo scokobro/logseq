@@ -2,5 +2,5 @@
 title: Ritsumeikan Admin
 ---
 
-## TODO Jinji Meeting prep
+## NOW Jinji Meeting prep
 ##
