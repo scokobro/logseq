@@ -6,5 +6,5 @@ title: Global Insights
 ## DONE ensure Miwa has all details of how to prepare #gii
 ## DONE PR for sessions to JDP students #gii
 ## TODO Can Tsujimoto do 1st Oct - Ana contacting
-## TODO contact Andrew re no-sho for 24th
+## DONE contact Andrew re no-sho for 24th
 ##
