@@ -10,7 +10,9 @@
 ### TODO d/l google pix
 ### TODO figshare pix
 ## Yase
-### TODO d/l google pix
-### TODO upload figshare
+### DONE d/l google pix
+### DONE upload figshare
 ## Misayama
 ## Murasakinoyanagi
+## Funaoka
+##
