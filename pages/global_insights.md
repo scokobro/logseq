@@ -7,5 +7,6 @@ title: Global Insights
 ## DONE PR for sessions to JDP students #gii
 ## DONE Can Tsujimoto do 1st Oct - Ana contacting
 ## DONE contact Andrew re no-sho for 24th
-## TODO contact AMEKAWA re session on Food
+## DONE contact AMEKAWA re session on Food - NOPE
+## DOING contact Matsuda on Food session
 ##
